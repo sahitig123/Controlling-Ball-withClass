@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../C20-Student-boilerplate-code-main"
+		},
+		{
+			"path": "../PRO-C20-V3-Template-main"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PRO-C20-V3-Template-main"
+	}
+}
